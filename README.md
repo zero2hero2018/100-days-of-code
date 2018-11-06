@@ -15,7 +15,6 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 <br>
 <br>
 <h1><strong>Goals</strong><h1>
-<br>
 <p><ul>
   <li>Become a Full Stack Web Developer</li>
   <li>Beat that imposter syndrome</li>

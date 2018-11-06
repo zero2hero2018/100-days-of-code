@@ -15,20 +15,23 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 <br>
 <br>
 #My Goals
-*Become a Full Stack Web Developer
- *Beat that imposter syndrome
- *Become more comfortable with my skills in web development
- *Complete the entire course of Complete WebDevelopment 2018
- *Ultimately be able to support myself on a web developer salary
+<ul>
+ <li>Become a Full Stack Web Developer</li>
+ <li>Beat that imposter syndrome</li>
+ <li>Become more comfortable with my skills in web development</li>
+ <li>Complete the entire course of Complete WebDevelopment 2018</li>
+ <li>Ultimately be able to support myself on a web developer salary</li>
 <br>
 <br>
-# My Plan
-  * **Learn HTML**
-  * **Learn CSS**
-* **Learn JavaScript**
- * **Become Familiar with DataBase(MongoDB)
- * **Learn the basics of backend programming
-  * **Familarize myself with how everything flows and works together as a whole
+<h1>My Plan</h1>
+<ul>
+ <li>Learn HTML</li>
+ <li>Learn CSS</li>
+ <li>Learn JavaScript</li>
+ <li>Become Familiar with DataBase(MongoDB)</li>
+ <li>Learn the basics of backend programming</li>
+ <li>Familarize myself with how everything flows and works together as a whole</li>
+ </ul>
 
 <br>
 <br>

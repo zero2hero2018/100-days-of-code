@@ -14,7 +14,7 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
  <p>Long story short,  here i am once again back to the wonderful world of website development and programming.  This time will be different.  I know that this is what i want to do and this is what im going to do.  I have my mind made up.  No more procrastinating, no more excuses!</p>
 <br>
 <br>
-<h1>My Goals</h1>
+## My Goals
  <li>Become a Full Stack Web Developer</li>
  <li>Beat that imposter syndrome</li>
  <li>Become more comfortable with my skills in web development</li>
@@ -22,7 +22,7 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
  <li>Ultimately be able to support myself on a web developer salary</li>
 <br>
 <br>
-<h1>My Plan</h1>
+## My Plan
 
  <li>Learn HTML</li>
  <li>Learn CSS</li>
@@ -34,7 +34,7 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 
 <br>
 <br>
-<h1>Employment</h1>
+## Employment
 
   <li>Mentally Prepare myself on how to present my skills</li>
   <li>Work on building a portfolio to showcase my projects</li>

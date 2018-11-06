@@ -15,7 +15,6 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 <br>
 <br>
 <h1><strong>Goals</strong><h1>
-<p>
 <ul>
   <li>Become a Full Stack Web Developer</li>
   <li>Beat that imposter syndrome</li>
@@ -23,7 +22,6 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
   <li>Complete the entire course of Complete WebDevelopment 2018</li>
   <li>Ultimately be able to support myself on a web developer salary</li>
 </ul>
-</p>
 <br>
 <br>
 <h1><strong>My Plan</strong></h1>
@@ -38,11 +36,9 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 <br>
 <br>
 <h1><strong>Employment</strong><h1>
-<p>
 <ul>
   <li>Mentally Prepare myself on how to present my skills</li>
   <li>Work on building a portfolio to showcase my projects</li>
   <li>Step out of my comfort zone and go to local meetups to meet other developers</li>
   <li>Look at actual job postings for the position i would like and see what is required and what they need.</li>
 </ul>
-<p>

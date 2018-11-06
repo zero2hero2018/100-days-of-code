@@ -26,9 +26,9 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
   * **Learn HTML**
   * **Learn CSS**
 * **Learn JavaScript**
- * **Become Familiar with DataBase(MongoDB)**
- * **Learn the basics of backend programming**
-  Familarize myself with how everything flows and works together as a whole
+ * **Become Familiar with DataBase(MongoDB)
+ * **Learn the basics of backend programming
+  * **Familarize myself with how everything flows and works together as a whole
 
 <br>
 <br>

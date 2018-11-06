@@ -7,7 +7,7 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 
 
 
-<h1>About me</h1>
+## About me
 <br>
 <p>I really didnt get into computers until i was a freshman in highschool.  It was only until i made a new friend that happened to be into computers and we talked and i was hooked.  I actually started on the hardware side.  The topic of HTML and CSS came up a few times but it was obviously very foreign to me and never thought it would be something i could do.  As the years went by i got more and more into computers and i always seemed to come back to html/css and programming in general.  I love having the ability to create something so complex and beautiful and interactive from nothing but text on a computer screen, and looking back and being able to say: "I made that!"</p>
 <br>

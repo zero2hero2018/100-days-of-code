@@ -36,9 +36,12 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 <br>
 <br>
 <h1><strong>Employment</strong><h1>
+<body>
+ <p>
 <ul>
   <li>Mentally Prepare myself on how to present my skills</li>
   <li>Work on building a portfolio to showcase my projects</li>
   <li>Step out of my comfort zone and go to local meetups to meet other developers</li>
   <li>Look at actual job postings for the position i would like and see what is required and what they need.</li>
-</ul>
+</ul></p>
+ </body>

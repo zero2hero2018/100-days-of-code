@@ -14,12 +14,12 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
  <p>Long story short,  here i am once again back to the wonderful world of website development and programming.  This time will be different.  I know that this is what i want to do and this is what im going to do.  I have my mind made up.  No more procrastinating, no more excuses!</p>
 <br>
 <br>
-# Goals
+#Goals
 *Become a Full Stack Web Developer
- Beat that imposter syndrome
- Become more comfortable with my skills in web development
- Complete the entire course of Complete WebDevelopment 2018
- Ultimately be able to support myself on a web developer salary
+ *Beat that imposter syndrome
+ *ecome more comfortable with my skills in web development
+ *Complete the entire course of Complete WebDevelopment 2018
+ *Ultimately be able to support myself on a web developer salary
 <br>
 <br>
 #My Plan

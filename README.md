@@ -7,24 +7,22 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 
 
 
-<h1><strong>About Me</strong></h1>
+#About me
 <br>
 <p>I really didnt get into computers until i was a freshman in highschool.  It was only until i made a new friend that happened to be into computers and we talked and i was hooked.  I actually started on the hardware side.  The topic of HTML and CSS came up a few times but it was obviously very foreign to me and never thought it would be something i could do.  As the years went by i got more and more into computers and i always seemed to come back to html/css and programming in general.  I love having the ability to create something so complex and beautiful and interactive from nothing but text on a computer screen, and looking back and being able to say: "I made that!"</p>
 <br>
  <p>Long story short,  here i am once again back to the wonderful world of website development and programming.  This time will be different.  I know that this is what i want to do and this is what im going to do.  I have my mind made up.  No more procrastinating, no more excuses!</p>
 <br>
 <br>
-<h1><strong>Goals</strong><h1>
-<ul>
-  <li>Become a Full Stack Web Developer</li>
-  <li>Beat that imposter syndrome</li>
-  <li>Become more comfortable with my skills in web development</li>
-  <li>Complete the entire course of Complete WebDevelopment 2018</li>
-  <li>Ultimately be able to support myself on a web developer salary</li>
-</ul>
+#Goals
+*Become a Full Stack Web Developer
+ Beat that imposter syndrome
+ Become more comfortable with my skills in web development
+ Complete the entire course of Complete WebDevelopment 2018
+ Ultimately be able to support myself on a web developer salary
 <br>
 <br>
-<h1><strong>My Plan</strong></h1>
+#My Plan
 <ul>
   <li>Learn HTML</li>
   <li>Learn CSS</li>
@@ -35,7 +33,7 @@ Journal of my coding journey of my first 100 days of coding in HTML, CSS, and Ja
 </ul>
 <br>
 <br>
-<h1><strong>Employment</strong><h1>
+#Employment
 <body>
  <p>
 <ul>
